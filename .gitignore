@@ -1,0 +1,9 @@
+# Compiled class file
+*.class
+
+
+# Unnecessary directories
+.grader/
+bin/
+
+my-grader-report.xml
